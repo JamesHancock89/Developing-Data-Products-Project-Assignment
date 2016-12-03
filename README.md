@@ -9,5 +9,5 @@ server.R
 
 The application is accesible in https://james-hancock.shinyapps.io/JimsApp/
 
-After a presentation of the application is disigned using R presentation. The Presentation can be visualized the below links:
+After a presentation of the application is disigned using R studio presemter. The Presentation can be visualized the below links:
 
